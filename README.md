@@ -2,7 +2,7 @@
 
 ## ¡No te pierdas el video!
 
-Este código fue elaborado en vivo para el canal [El Sur también programa](https://youtube.com/c/elsurtambienprograma). Te recomendamos ver el video [Companion objects en Kotlin, o cómo poner código en las clases]().
+Este código fue elaborado en vivo para el canal [El Sur también programa](https://youtube.com/c/elsurtambienprograma). Te recomendamos ver el video [Companion objects en Kotlin, o cómo poner código en las clases](https://www.youtube.com/watch?v=2RrkG0nCrBw).
 
 ## Descripción del dominio
 
